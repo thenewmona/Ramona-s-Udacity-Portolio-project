@@ -12,6 +12,7 @@ https://fontawesome.com/
 https://www.w3schools.com/icons/fontawesome_icons_intro.asp
 
 /*target_blank*/
+https://www.w3schools.com/Tags/att_a_target.asp
 this opens a new page/tab so people are not directed away from your page 
 
 /*git*/

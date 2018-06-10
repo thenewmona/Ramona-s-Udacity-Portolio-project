@@ -184,15 +184,15 @@ p {
 @media(min-width: 700px) {
     .grid {
         display: grid;
-        grid-template-columns: 25 25 25;
+        grid-template-columns: 25 25 25 0;
         /*fractionals grid-template 1fr repeat(2, minmax(auto,25em ))1fr */
     }
     #section-a .content-text {
         columns: 2;
-        column-gap: 2em;
+        column-gap: 5em;
     }
     #section-a .content-text p {
-        padding: top 0;
+        padding-top: -1;
     }
     .content-wrap,
     #section-bu ul {
@@ -212,5 +212,5 @@ p {
 }
 
 #section-b li {
-    width: 31%;
+    width: 33%;
 }
