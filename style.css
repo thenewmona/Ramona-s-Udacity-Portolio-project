@@ -97,6 +97,9 @@ p {
     color: rgb(213, 228, 219);
     padding-bottom: 2em;
     font-family: 'Pacifico', cursive;
+}
+
+.content-text {
     text-align: center;
 }
 
