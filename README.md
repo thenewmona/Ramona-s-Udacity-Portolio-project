@@ -1,9 +1,28 @@
 Ramona's Portfolio project 
+/ rubric guidelines*/
 
+Title
+logo
+4 images
+4 paragraphs
+
+CSS media queries @media 
+flexbox
+sematatic tag (header, footer,form,table this tells something about the content )
+non-semantic tags (div and span this doesn't tell anything about the content)
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
 
 
 resources
+
+/*SLACK*/
+ChrisN documentation=
+https://gwgnanodegrees.slack.com/files/UA8PXHUR3/FB1NZMP6Z/Project_1__Building_a_portfolio_pt_1__the_HTML 
+
+https://gwgnanodegrees.slack.com/files/UA8PXHUR3/FB2H43J86/Project_1__Building_a_portfolio_pt_2__the_CSS
+
+Mikas webinar - https://www.youtube.com/watch?v=X3WloDKs7sw
 /*fontawesome*/
 https://fontawesome.com/
 https://www.w3schools.com/icons/fontawesome_icons_intro.asp
