@@ -23,4 +23,5 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
  what is wrong with the logo image 
  why aren't the social media links showing up 
  fix email link 
+ fix fontawesome links 
 

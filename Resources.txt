@@ -46,6 +46,9 @@ https://medium.com/flexbox-and-grids/the-css-fractional-unit-fr-in-approachable-
 
 https://css-tricks.com/introduction-fr-css-unit/
 
+/*flexbox*/
+https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+
  /*grid-column*/
 
 https://css-tricks.com/snippets/css/complete-guide-grid/
@@ -71,6 +74,12 @@ https://www.w3schools.com/cssref/pr_grid-column.asp
 https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp
 
 https://stackoverflow.com/questions/14962459/html-divs-how-to-wrap-content
+
+/*Email*/
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto
+https://stackoverflow.com/questions/10632468/styling-email-link-href-mailto-with-css
+https://www.w3schools.com/tags/tag_address.asp
 
 
  /*TraversyMedia*/

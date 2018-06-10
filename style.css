@@ -36,7 +36,7 @@ p {
 
 .headerlogoimg {
     height: auto;
-    width: 100%;
+    width: auto;
 }
 
 #hero {
@@ -181,6 +181,15 @@ p {
 
 /*media queeries*/
 
+
+/*Pixel2*/
+
+
+/*iphone 8plus*/
+
+
+/* kindle fire HDX*/
+
 @media(min-width: 700px) {
     .grid {
         display: grid;
@@ -214,3 +223,5 @@ p {
 #section-b li {
     width: 33%;
 }
+
+.card-img {}
