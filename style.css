@@ -4,7 +4,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(151, 142, 174);
-    color: rgb(42, 40, 63);
+    color: rgb(63, 18, 75);
     font-size: 1.1em;
     line-height: 1.5;
     text-align: center;
@@ -41,13 +41,13 @@ p {
 
 #hero {
     min-height: 450px;
-    color: rgb(4, 49, 49);
+    color: rgb(151, 142, 174);
     text-align: center;
 }
 
 #hero .bg-image {
     position: absolute;
-    background: rgb(201, 165, 165) url("https://lh3.googleusercontent.com/3eg1SKLioD8p9zQdjJlJbzIpLEuuGoiVYL5QZcLX9AwFczy5n94So0bkPWEl6axKNc79pIEyoziN5f8xbeEuJtaQuK3hJfR2_0vwM2rGRi4XbLnTSjOT4ZMwtCNUwkmEjm-Cy2fFXJN1TDHPQvsae-la0-TRbbKuos348s3nyfmGolJP97pmtZX4h57uNDKfWPeoeftZYOMDFxpV1hl2Lna8GpXqgwTUIsPIc7OtXElb6SR65yzbwpReuug4nWA_Fc13m7vEUjVnkPcFHYCknxggc699x0qm45_Yn9KxMRMMX2je0GcMyAJChYyVORxoXqDQi_oNhMdcp-CS6fo3ru8Xvg-a9HMqpqMcV4oTEdJ9-lM8lnW9xyS8P6-R-Bd9XwUls46MXSbzaTCpiVk_emL640VrSQxu5fbgMk6ocnpcWp0-NFYlUKGqdqDPfHp9R6rpNnbfdbvE1ursyN4NBu7URktp2kRw7QrljYCmGqTSFo9PeLoe4G51tGcCjoCkwmTDU1_9h_SywZhhdzmPXlY9SOIivyIS_hfqTcT0AWg4von9nj6nJ6pYishY8auAIAZ1JJZ2XTHoW566EwNfat_sIG3yWq-y8Cy_GCQD=w1200-h900-no");
+    background: rgb(63, 18, 75) url("https://lh3.googleusercontent.com/3eg1SKLioD8p9zQdjJlJbzIpLEuuGoiVYL5QZcLX9AwFczy5n94So0bkPWEl6axKNc79pIEyoziN5f8xbeEuJtaQuK3hJfR2_0vwM2rGRi4XbLnTSjOT4ZMwtCNUwkmEjm-Cy2fFXJN1TDHPQvsae-la0-TRbbKuos348s3nyfmGolJP97pmtZX4h57uNDKfWPeoeftZYOMDFxpV1hl2Lna8GpXqgwTUIsPIc7OtXElb6SR65yzbwpReuug4nWA_Fc13m7vEUjVnkPcFHYCknxggc699x0qm45_Yn9KxMRMMX2je0GcMyAJChYyVORxoXqDQi_oNhMdcp-CS6fo3ru8Xvg-a9HMqpqMcV4oTEdJ9-lM8lnW9xyS8P6-R-Bd9XwUls46MXSbzaTCpiVk_emL640VrSQxu5fbgMk6ocnpcWp0-NFYlUKGqdqDPfHp9R6rpNnbfdbvE1ursyN4NBu7URktp2kRw7QrljYCmGqTSFo9PeLoe4G51tGcCjoCkwmTDU1_9h_SywZhhdzmPXlY9SOIivyIS_hfqTcT0AWg4von9nj6nJ6pYishY8auAIAZ1JJZ2XTHoW566EwNfat_sIG3yWq-y8Cy_GCQD=w1200-h900-no");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,7 +79,7 @@ p {
 
 #section-a {
     background: rgb(63, 18, 75);
-    color: rgb(213, 228, 219);
+    color: rgb(63, 18, 75);
     padding-bottom: 2em;
     font-family: 'Pacifico', cursive;
 }
@@ -105,20 +105,21 @@ p {
 }
 
 #section-b li {
-    margin-bottom: 1em;
-    background: rgb(212, 210, 60);
-    color: rgb(46, 158, 93);
+    margin-bottom: 5em;
+    background: rgb(99, 34, 117);
+    color: rgb(157, 191, 204);
+    font-family: fantasy;
 }
 
 .card-content {
-    padding: 1;
+    padding: 0;
 }
 
 
 /*Section C*/
 
-#section-c {
-    background: rgb(212, 210, 60);
+S #section-c {
+    background: rgb(35, 20, 90);
     color: rgb(46, 158, 93);
     padding: 2em;
 }
@@ -132,7 +133,7 @@ p {
 }
 
 #section-d .box-first-child {
-    background: rgb(212, 210, 60);
+    background: whitesmoke;
 }
 
 
@@ -149,20 +150,17 @@ p {
 
 #main-footer {
     padding: 4em;
-    background: rgb(212, 210, 60);
-    color: rgb(205, 219, 211);
+    background: rgb(39, 3, 34);
+    color: rgb(181, 182, 204);
     text-align: center;
 }
 
 #main-footer a {
-    color: rgb(153, 9, 117);
+    color: rgb(204, 195, 211);
     text-decoration: none;
 }
 
-
-/*? social media class use */
-
-.fa fa-linkedin {
+<!-- social media class use-->.fa fa-linkedin {
     background: #007bb6;
 }
 
@@ -221,7 +219,5 @@ p {
 }
 
 #section-b li {
-    width: 33%;
+    width: 31%;
 }
-
-.card-img {}

@@ -20,8 +20,8 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
  need to make the card titles into links, so that there are not double titles
  check specificity 
- what is wrong with the logo image 
+ *fixed*what is wrong with the logo image 
  why aren't the social media links showing up 
  fix email link 
  fix fontawesome links 
-
+what is ?grid&quot; in the header, is it something with emmet
