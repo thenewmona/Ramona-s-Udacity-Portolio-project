@@ -2,17 +2,19 @@ Ramona's Portfolio project
 
 /*rubric guideline notes*/
 
-Title
+*done* Title
 
-logo
+*done* logo
 
-4 images
+*done* 4 images
 
-4 paragraphs
+*done* 4 paragraphs
 
-CSS media queries @media 
-flexbox
-sematatic tag (header, footer,form,table this tells something about the content )
+*done* CSS media queries @media 
+
+*done* flexbox
+
+*done* sematatic tag (header, footer,form,table this tells something about the content )
 non-semantic tags (div and span this doesn't tell anything about the content)
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
