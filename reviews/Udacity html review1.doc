@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <img alt="project logo" class="headerlogoimg" src="https://res.cloudinary.com/szamina/image/upload/v1519664760/udacity_portrait_transparent_hd.png">
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <title>Ramona Saintandre Udacity Portfolio</title>
+    <h1>Ramona Saintandre</h1>
+    <h3>Anomar Designs</h3>
+</head>
+
+<body>
+    <!--Hero image and logo -->
+    <a href="#" id="logo"></a>
+    <header class="grid&quot;" id="hero">
+        <!--?grid&quot;?-->
+        <div class="bg-image"></div>
+        <div class="content-wrap">
+
+            <!--<a href="#" id="logo"></a>-->
+
+            <!--  <h1>Welcome</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem ea magnam vitae autem delectus numquam eum eveniet, iure voluptate quos?</p>
+            <a href="#section-b" class="btn">My Projects</a>-->
+        </div>
+    </header>
+    <!--main images 4 paragraphs -->
+    <main id="main">
+        <!--Section A-->
+        <section class="grid" id="section-a">
+            <div class="content-wrap">
+                <h2 class="content-title">My Udacity Projects</h2>
+                <div class="content-text">
+                    <p>Here is a Showcase of the projects that I did in Phase.</p>
+                </div>
+            </div>
+        </section>
+        <!--Section B-->
+        <!-- need to make the card titles into links, so that there are not double titles-->
+        <section class="grid" id="section-b">
+            <ul>
+                <li>
+                    <div class="Project card">
+                        <!--Pexels.com-->
+                        <img class="card-img" alt="Udacity Mockup Project" src="https://i1.wp.com/blog.udacity.com/wp-content/uploads/2016/01/Slack-for-iOS-Upload.jpg?zoom=2&resize=320%2C168">
+                        <a href="https://codepen.io/thenewmona/full/jZqeBo" target="_blank">MockUp</a>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="cardtitle">MockUp</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ullam, commodi velit exercitationem deleniti cupiditate! Sint harum dolorum voluptates officiis?</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="Project card">
+                        <!--Pexels.com-->
+                        <img class="card-img" alt="Ramona 's Pixel Slayer" src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/22228152_10214658178427085_6874934682482878351_n.jpg?_nc_cat=0&oh=48c1d4b08d4eeb1575b2936b806039c0&oe=5BA9BDE8">
+                        <a href="https://codepen.io/thenewmona/full/LddYyg/" target="_blank">Pixel Slayer</a>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="cardtitle">Pixel Slayer</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ullam, commodi velit exercitationem deleniti cupiditate! Sint harum dolorum voluptates officiis?</p>
+                    </div>
+                </li>
+                <!--Pexels.com-->
+                <li>
+                    <div class="Project card">
+                        <img class="card-img" alt="Udacity Slack Card " src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/21752157_10214483108290441_7542040174205672947_n.jpg?_nc_cat=0&oh=3f2a55fc638067ec6a10592fc10941dc&oe=5B6BF482">
+                        <a href="https://codepen.io/thenewmona/full/zWLWqG" target="_blank">Slack Card</a>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="cardtitle">Slack Card</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ullam, commodi velit exercitationem deleniti cupiditate! Sint harum dolorum voluptates officiis?</p>
+                    </div>
+                </li>
+
+
+            </ul>
+        </section>
+        <!--Section C-->
+        <section class="grid" id="section-c">
+            <div class="content-wrap">
+                <h2 class="content-title">My Thoughts about this Journey</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum deserunt dolores eius impedit doloribus totam nemo possimus sint fuga vitae!</p>
+            </div>
+        </section>
+        <!--Section D-->
+        <section class="grid" id="section-d">
+            <div class="box">
+                <h2 class="content-title">contact me</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, ipsa!</p>
+
+
+                <div class="box">
+                    <h2 class="content-title">about me</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, ipsa!</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <!--Footer-->
+    <!--resource = Fontawesome-->
+    <div class="social-icons">
+        <ul class="socialmedia">
+            <li>
+                <a href="https://www.facebook.com/ramona.saintandre" target="_blank"></a>
+                <i class="fa fa-facebook"></i>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/ramona-saintandre/" target="_blank"></a>
+                <i class="fa fa-linkedin"></i>
+            </li>
+            <li>
+                <a href="https://codepen.io/thenewmona/" target="_blank"></a>
+                <i class="fa fa-codepen"></i>
+            </li>
+            <li>
+                <a href="https://twitter.com/thenewmona1" target="_blank"></a>
+                <i class="fa fa-twitter"></i>
+            </li>
+        </ul>
+    </div>
+    <footer class="grid" id="main-footer">
+        <div>
+            Anomar Designs
+        </div>
+        <!--target attr= https://www.w3schools.com/tags/att_link_target.asp -->
+        <div>
+            Project by
+            <a href="http://anomardesigns.com" target="_blank">Ramona Saintandre</a>
+            <!--link email address -->
+            <p>
+                <!--This is an email link-->
+                <address>
+                    <a href="thenewmona@gmail.com">Thenewmona@gmail.com</a>.
+                    <br> Visit me at:
+                    <a href="http://anomardesigns.com" target="_blank">AnomarDesigns.com</a>
+                    <br>
+                    <a href="https://codepen.io/thenewmona/" target="_blank">CodePen</a>
+                    <br>
+                    <a href="https://www.facebook.com/ramona.saintandre" target="_blank">Facbook</a>
+
+                </address>
+        </div>
+    </footer>
+</body>
+
+</html
