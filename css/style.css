@@ -182,7 +182,7 @@ S #section-c {
 @media(min-width: 1400px) {
     .grid {
         display: grid;
-        grid-template-columns: 25 25 25 0;
+        grid-template-columns: auto auto auto auto;
         /*media queeries*/
         /*Pixel2*/
         /*iphone 8plus*/
@@ -194,7 +194,8 @@ S #section-c {
         column-gap: 0;
     }
     #section-a .content-text p {
-        padding-top: -1;
+        padding: 1px;
+        ;
     }
     .content-wrap,
     #section-bu ul {
